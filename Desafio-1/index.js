@@ -1,5 +1,4 @@
-// Criação da Função 
-
+// Criação da Função
 function calculoDivisiveis() {
 
     // Criação das váriaveis 
